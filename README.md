@@ -141,7 +141,7 @@ The API is available at:
 http://localhost:8000
 ```
 
-## Default account
+## 🔐 Default Login
 
 On startup, the API creates a default admin user if it does not already exist:
 
