@@ -8,7 +8,7 @@ CodeForge is a distributed code execution platform with a React editor, FastAPI 
 - React + TypeScript frontend built with Vite, Monaco Editor, Zustand, Axios, and Lucide icons.
 - Kafka worker that executes submitted code in isolated Docker containers.
 - AI worker queue hooks for explanation and plagiarism jobs.
-- PostgreSQL schema bootstrap, Redis, Kafka, Prometheus, and Grafana via Docker Compose.
+- PostgreSQL schema bootstrap, Redis, Kafka, Prometheus, and Grafana via Docker Compose. 
 
 ## Project structure
  
