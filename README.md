@@ -11,7 +11,7 @@ CodeForge is a distributed code execution platform with a React editor, FastAPI 
 - PostgreSQL schema bootstrap, Redis, Kafka, Prometheus, and Grafana via Docker Compose.
 
 ## Project structure
-
+ 
 ```text
 CodeForge/
 |-- README.md
